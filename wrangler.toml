@@ -1,0 +1,6 @@
+name = "alem-do-vapor-relatos"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+PUBLIC_SITE_ORIGIN = "https://sostenes736-collab.github.io"
